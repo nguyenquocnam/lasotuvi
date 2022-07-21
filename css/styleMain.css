@@ -1,0 +1,42 @@
+
+.large-widget-title-la-so {
+
+    background-image: url(/wp-content/themes/tuvicohoc/images/icon/widget-title.jpg);
+	background: #446354;
+}
+.widget-title {
+
+    background-image: url(/wp-content/themes/tuvicohoc/images/icon/widget-title.jpg);
+	background: #446354;
+}
+.widget {
+
+     outline: none; 
+     padding: 0px; 
+     margin-bottom: 0px; 
+}
+#content_la_so .widget{
+    outline: 1px solid var(--border-color);
+    padding: 10px;
+    margin-bottom: 10px;
+}
+#content_la_so .none-cung-view-hover{background-color:var(--white-color)!important;opacity:.3}
+.cung-view {
+    height: 100%;
+}
+.triet-position-bottom .txt-sub-content-la-so{
+	color:white;
+}
+.triet-position-top .txt-sub-content-la-so{
+	color:white;
+}
+.d-none {
+    display: none!important;
+}
+.wide-left-content {
+    width: 100% !important;
+    float: left;
+}
+#content_la_so th:first-child, td:first-child {
+    padding-left:0 ;
+}
